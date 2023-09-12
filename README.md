@@ -1,8 +1,8 @@
 - # Sobre Mim 
 - 🐱 Oi me chamo **@LannaMattos** 
-- 💀 Sou formada em **Química Bacharelado e Licenciatura**. 
-- 👩‍💻 Atualmente leciono a disciplina de **Pensamento Computacional** e **Program Tecnologia Computacion**
-- 🏫 Faço parte do corpo docente do **Colégio Estadual Joaquim Maria Machado de Assis**
+- 💀 Sou formada em **Química Bacharelado/Licenciatura** e **Pedagogia**
+- 👩‍💻 Atualmente leciono a disciplina de **Pensamento Computacional**, **Informática Aplicada** e **Educação Finaceira**
+- 🏫 Faço parte do corpo docente do **Colégio Estadual Joaquim Maria Machado de Assis** e **CEEPA Fernando Costa**
 - 📍 Localizado em **Santa Mariana-PR**
 - 📫 Meu e-mail para contato é **alanna.alves.silva@escola.pr.gov.br**
 <!---
