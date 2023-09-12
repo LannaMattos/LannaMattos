@@ -7,3 +7,4 @@
 - 📫 Meu e-mail para contato é **alanna.alves.silva@escola.pr.gov.br**
  #
  ![](https://media.tenor.com/GOabrbLMl4AAAAAd/plink-cat-plink.gif) 
+
