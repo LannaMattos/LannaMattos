@@ -1,4 +1,4 @@
-- # Sobre Mim
+- # Sobre Mim 🎈
 - 🐱 Oi me chamo **Alanna Mattos** 
 - 💀 Sou formada em **Química Bacharelado/Licenciatura** e `Pedagogia`
 - 💀 Pós graduada em **Libras, Docencia no Ensino Médio, Inclusão Social e Educação Especial Inclusiva.**
